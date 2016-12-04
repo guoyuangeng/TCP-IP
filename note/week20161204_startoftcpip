@@ -1,0 +1,14 @@
+
+************************************************************
+**  book:      null Pxxx-Pxxx    null Pxxx-Pxxx
+**  date:      2016 14 04 Sunday
+**  important: easy & ^^^^^
+**  abstrct:   null
+************************************************************
+
+关于vim a.file 复制到 b.file
+	1.在a.file里
+		"ayx+
+		:ex b.file
+	2.自动到了 b.file
+		"ap
